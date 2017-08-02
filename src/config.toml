@@ -1,4 +1,4 @@
-baseURL = "http://aidenbell.com/"
+baseURL = "/"
 languageCode = "en-us"
 title = "aidenbell.com"
 theme = "boot"
