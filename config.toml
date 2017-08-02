@@ -2,6 +2,6 @@ baseURL = "http://aidenbell.com/"
 languageCode = "en-us"
 title = "aidenbell.com"
 theme = "bsv4"
-
+publishDir = "docs"
 [params]
-    description = [ "Checkout that goofy profile image", "Awwww yis", "May the with be force you"]
+    description = "Stuff from me" 
