@@ -1,4 +1,7 @@
 baseURL = "http://aidenbell.com/"
 languageCode = "en-us"
-title = "Aiden Bell"
-theme = "bootstrapv4"
+title = "aidenbell.com"
+theme = "bsv4"
+
+[params]
+    description = [ "Checkout that goofy profile image", "Awwww yis", "May the with be force you"]

@@ -1,5 +1,5 @@
 ---
-title: "My First Post"
+title: "Urgh, a blog"
 date: 2017-08-01T12:22:03+01:00
 draft: false
 type: "post"
