@@ -1,7 +1,7 @@
 baseURL = "http://aidenbell.com/"
 languageCode = "en-us"
 title = "aidenbell.com"
-theme = "bsv4"
-publishDir = "docs"
+theme = "boot"
+publishDir = "../"
 [params]
     description = "Stuff from me" 
