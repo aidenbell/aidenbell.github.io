@@ -1,7 +1,0 @@
-baseURL = "/"
-languageCode = "en-us"
-title = "aidenbell.com"
-theme = "boot"
-publishDir = "../"
-[params]
-    description = "Stuff from me" 
